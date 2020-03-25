@@ -1,1 +1,2 @@
 # Cviceni
+Popis projektu
